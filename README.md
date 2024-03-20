@@ -43,9 +43,3 @@ This Quadcopter project represents a leap forward in drone technology, combining
 
 
 
-
-## Demo
-
-Inser demo
-
-

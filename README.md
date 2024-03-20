@@ -5,7 +5,7 @@ This Quadcopter project merges sophisticated hardware components and advanced so
 Hardware Components
 Frame: At the heart of our quadcopter's design is the S500 frame, known for its durability and stability. This frame is the perfect foundation for our project, providing a solid base for all other components.
 
-Motors: We've equipped the quadcopter with four Sunnysky 960kv BLDC (Brushless DC) motors. These motors are known for their efficiency, high torque, and reliability, making them an ideal choice for our aerial vehicle.
+Motors: We've equipped the quadcopter with four Readytosky 2212 920kv BLDC (Brushless DC) motors. These motors are known for their efficiency, high torque, and reliability, making them an ideal choice for our aerial vehicle.
 
 ESCs (Electronic Speed Controllers): Each motor is paired with a 30-amp ESC. These ESCs are responsible for providing smooth and responsive motor control, essential for stable flight.
 
